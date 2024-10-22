@@ -14,7 +14,7 @@ Remerciements aux organisateurs et à l’association OSCAR pour cet événement
 [Interview sur la radio Magny](https://radiomagny.com/podcast/happy-hour-4-en-direct-de-la-fete-de-la-science-a-rumilly-oscar-09-10-2024/)
 
 ## Fête de la science 2024 à la galerie Eureka de Chambéry
-Publié le mar 22 Oct 2024 sur le site du Listic : https://www.univ-smb.fr/listic/actualites/fete-de-la-science-2024-a-la-galerie-eureka-de-chambery/
+Publié le mar 22 Oct 2024 sur le [site du Listic](https://www.univ-smb.fr/listic/actualites/fete-de-la-science-2024-a-la-galerie-eureka-de-chambery/)
 
 Dans le cadre de la fête de la science, le laboratoire Listic présentait deux ateliers à la galerie Eurêka de Chambéry le week-end du 12-13 Octobre :
 
