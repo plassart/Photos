@@ -19,6 +19,6 @@ Publié le mar 22 Oct 2024 sur le [site du Listic](https://www.univ-smb.fr/listi
 Dans le cadre de la fête de la science, le laboratoire Listic présentait deux ateliers à la galerie Eurêka de Chambéry le week-end du 12-13 Octobre :
 
 1) Rêve d’IA porté par Nicolas Méger : [Activité Rêve d'IA](https://www.fetedelascience.fr/reve-d-ia)
-2) Algorithmique débranchée par Stéphan Plassart : [Activité Algorithnmique débranchée](https://www.fetedelascience.fr/algorithmique-debranche-la-decouverte-des-algorithmes-emblematiques-de-l-informatique)
+2) Algorithmique débranchée par Stéphan Plassart : [Activité Algorithmique débranchée](https://www.fetedelascience.fr/algorithmique-debranche-la-decouverte-des-algorithmes-emblematiques-de-l-informatique)
 
 Remerciements à tous les membres du laboratoire qui nous ont accompagnés pour l’animation des stands : Lea Zuccali et Argheesh Bhanot le samedi, Paul Mathieu et Christophe Lin-Kwong-Chon le dimanche.
