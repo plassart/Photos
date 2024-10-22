@@ -1,7 +1,7 @@
 # Photos FDS 2024
 
 ## Fête de la science 2024 à la salle OSCAR de Rumilly
-Publié le mar 22 Oct 2024
+Publié le mar 22 Oct 2024 sur le site du Listic : https://www.univ-smb.fr/listic/actualites/fete-de-la-science-2024-a-la-salle-oscar-de-rumilly/
 
 Le laboratoire Listic de l’USMB était présent à la salle OSCAR de Rumilly le mercredi 9 Octobre à l’occasion de la fête de la science.
 
@@ -14,7 +14,7 @@ Remerciements aux organisateurs et à l’association OSCAR pour cet événement
 https://radiomagny.com/podcast/happy-hour-4-en-direct-de-la-fete-de-la-science-a-rumilly-oscar-09-10-2024/
 
 ## Fête de la science 2024 à la galerie Eureka de Chambéry
-Publié le mar 22 Oct 2024
+Publié le mar 22 Oct 2024 sur le site du Listic : https://www.univ-smb.fr/listic/actualites/fete-de-la-science-2024-a-la-galerie-eureka-de-chambery/
 
 Dans le cadre de la fête de la science, le laboratoire Listic présentait deux ateliers à la galerie Eurêka de Chambéry le week-end du 12-13 Octobre :
 
